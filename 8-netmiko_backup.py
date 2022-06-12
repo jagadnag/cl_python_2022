@@ -14,6 +14,10 @@ username = os.getenv("NETMIKO_USERNAME") if os.getenv("NETMIKO_USERNAME") else i
 #username = input('Enter your SSH username: ')
 #password = getpass('Enter your password: ')
 
+# Create backup folder
+if not os.path.exists('backup/'):
+    os.mkdir('backup')
+    
 # Sending device ip's stored in a file
 with open('device_list') as f:
     device_list = f.read().splitlines()
