@@ -7,8 +7,7 @@
 * Navigate to the directory
   * cd cl_python_2020
 * Install the python package
-  * pip install netmiko
-  * pip install napalm
+  * pip install -r requirements.txt
 * Verify the python pip packages
   * pip list
 * Run the scripts
@@ -22,7 +21,7 @@ https://www.digitalocean.com/community/tutorial_series/how-to-install-and-set-up
 
 https://github.com/ktbyers/netmiko/blob/develop/README.md 
 
-https://napalm.readthedocs.io/en/latest/
+[https://napalm.readthedocs.io/en/latest/](https://nornir.readthedocs.io/en/latest/)
 
 ### Additional Learning:
 
