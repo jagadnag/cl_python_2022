@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import os
 import csv
+from getpass import getpass
 from netmiko import Netmiko
 from pprint import pprint
 from tabulate import tabulate
