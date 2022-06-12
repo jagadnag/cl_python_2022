@@ -21,7 +21,7 @@ https://www.digitalocean.com/community/tutorial_series/how-to-install-and-set-up
 
 https://github.com/ktbyers/netmiko/blob/develop/README.md 
 
-[https://napalm.readthedocs.io/en/latest/](https://nornir.readthedocs.io/en/latest/)
+https://nornir.readthedocs.io/en/latest
 
 ### Additional Learning:
 
