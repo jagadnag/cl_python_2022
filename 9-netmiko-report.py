@@ -10,12 +10,13 @@ ios1 = {
     'password': 'cisco',
 }
 
-# Establish SSH to device and run show command
+# Establish SSH to device and use genie to parse command output
 net_connect = Netmiko(**ios1)
 output = net_connect.send_command('show version', use_genie=True)
 net_connect.disconnect()
 print(output)
 
+# Pretty print output to readable format 
 print()
 pprint(output)
 print()
