@@ -22,6 +22,8 @@ for device in device_list:
  
     net_connect = Netmiko(**ios_device)
     output = net_connect.send_config_from_file('reset_config')
+    output += net_connect.save_config()
+    net_connect.disconnect()
     print (output)
 
 if os.path.exists("backup/iosv-1.cfg"):
