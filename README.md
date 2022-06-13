@@ -3,10 +3,11 @@
 ## Python scripts for network automation lab
 
 * Clone the git repo
-  * git clone https://github.com/jagadnag/cl_python_2020.git
+  * git clone https://github.com/jagadnag/cl_python_2022.git
 * Navigate to the directory
-  * cd cl_python_2020
+  * cd cl_python_2022
 * Install the python package
+  * pip install --upgrade pip
   * pip install -r requirements.txt
 * Verify the python pip packages
   * pip list
