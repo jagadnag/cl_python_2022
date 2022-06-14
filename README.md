@@ -44,6 +44,8 @@ https://developer.cisco.com/learning/modules/dne-intro-python/
 
 https://pynet.twb-tech.com/free-python-course.html
 
+https://my.thisisit.io/p/52-weeks-of-python
+
 
 ### Recommeded Books:
 
