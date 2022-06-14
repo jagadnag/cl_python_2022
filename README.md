@@ -38,14 +38,18 @@ https://developer.cisco.com/docs/genie-docs/
 ### Additional Learning:
 
 https://developer.cisco.com/video/net-prog-basics/
+
 https://developer.cisco.com/learning/modules/dne-intro-python/
+
 https://pynet.twb-tech.com/free-python-course.html
 
 
 ### Recommeded Books:
 
 https://www.amazon.com/Network-Programmability-Automation-Next-Generation-Engineer/dp/1491931256
+
 https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280
+
 https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922
 
   
