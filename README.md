@@ -1,5 +1,14 @@
 # cl_python_2022
 
+## Software Used
+* Windows
+  * Microsoft VSCode
+  * Remote SSH extentsion
+  * Git or Openssh client
+* Linux VM
+  * Python3
+  * python-pip, virutalenv
+    
 ## Python scripts for network automation lab
 
 * Clone the git repo
