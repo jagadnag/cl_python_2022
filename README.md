@@ -16,6 +16,7 @@
 * Navigate to the directory
   * cd cl_python_2022
 * Install the python package
+  * setup a virtual environment
   * pip install --upgrade pip
   * pip install -r requirements.txt
 * Verify the python pip packages
