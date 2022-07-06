@@ -46,6 +46,8 @@ https://pynet.twb-tech.com/free-python-course.html
 
 https://my.thisisit.io/p/52-weeks-of-python
 
+https://pyneng.readthedocs.io/en/latest/
+
 
 ### Recommeded Books:
 
